@@ -1,4 +1,4 @@
-package com.example.a23012011075pratical
+package com.example.a23012021044_practicalexam.
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
